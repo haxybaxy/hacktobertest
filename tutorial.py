@@ -1,5 +1,5 @@
 users = [
-    'aya-yasmine'
+    'aya-yasmine',
     'Anna',
     'velocitatem',
     'laura',
