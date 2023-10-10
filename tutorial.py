@@ -5,7 +5,8 @@ users = [
     'laura',
     'torkuno',
     'isabel',
-    'zaid'
+    'zaid',
+    'sayak'
 ]
 
 def greet(user):
