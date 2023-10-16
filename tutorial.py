@@ -6,7 +6,8 @@ users = [
     'torkuno',
     'isabel',
     'zaid',
-    'restartdk'
+    'restartdk',
+    'Devtanu',
 ]
 
 def greet(user):
