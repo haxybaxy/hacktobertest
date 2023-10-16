@@ -6,6 +6,7 @@ users = [
     'torkuno',
     'isabel',
     'zaid',
+    'sayak',
     'restartdk',
     'Devtanu',
 ]
